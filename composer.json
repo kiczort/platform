@@ -93,7 +93,7 @@
         "bower-asset/json2": "dev-master",
         "bower-asset/text": "2.0.10",
         "bower-asset/base64": "1.0.*",
-        "bower-asset/fullcalendar": "2.2.3",
+        
         "bower-asset/flotr2": "dev-master",
         "bower-asset/bean": "1.0.6",
         "bower-asset/jquery-validate": "1.11.1",
